@@ -1,5 +1,5 @@
 ---
 layout: default
-title: community
+title: Community
 ---
 community
