@@ -1,3 +1,8 @@
+---
+layout: page
+title: community
+permalink: /leagues/community/
+---
 <html lang="en">
 <head>
     <!-- Google Tag Manager -->
