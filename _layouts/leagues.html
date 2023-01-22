@@ -80,15 +80,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
     </form>
   </div>
-    </nav> 
-    <div class="p-5" style="background-color:#e9ecef;">
-    <widgetbot
+</nav> 
+<div class="p-5" style="background-color:#e9ecef;">
+ <div class="container">
+    <div class="col">
+      <widgetbot
     server="834556830306664458"
     channel="{{ page.channel-id }}"
     width="800"
     height="600"
 ></widgetbot>
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+    </div>
+    <div class="col">
+        <iframe height="675" width="522" style="border:none;" src="{{ page.spreadsheet }};single=true&amp;widget=true&amp;headers=false"></iframe>
+    </div>
+  </div>
+ </div>
+    
   {{ content }}
     </div>
   </body>
