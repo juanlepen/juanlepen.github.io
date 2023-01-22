@@ -3,4 +3,6 @@ layout: leagues
 title: Live
 channel-id: 834567875071180880
 ---
-LIVE
+  
+  **POWERED LIVE BY OUR BEAUTIFUL COMMUNITY**
+
