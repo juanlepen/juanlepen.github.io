@@ -9,7 +9,7 @@ title: Education
 ___  
 
 <p align="center">
-  <img src="/assets/images/SWAGCOGLOGO.jpg" width="200" height="100">
+  <img src="/assets/images/SWAGCOGLOGO.jpg" height="100">
 </p>  
 
 ___  
