@@ -6,8 +6,12 @@ title: Education
 
 # **<center>LEARN HOW TO BET WITH OUR IN DEPTH GUIDES</center>**  
 
-___
-![SWAGCOGBETTING](/assets/images/SWAGCOGLOGO.jpg "Swagcoglioni Logo")  
+___  
+
+<p align="center">
+  <img src="/assets/images/SWAGCOGLOGO.jpg" width="200" height="100">
+</p>  
+
 ___  
   
 ### **<center>The official decalogue of the bettor:</center>**
@@ -24,8 +28,10 @@ ___
 
 ___  
 
-![KEEPGAMBLING](/assets/images/keepgambling.webp "Keep gambling")  
-  
+<p align="center">
+  <img src="/assets/images/keepgambling.webp" width="200" height="100">
+</p>  
+
 ___
 
 
