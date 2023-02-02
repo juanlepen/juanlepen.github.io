@@ -7,10 +7,10 @@ title: Education
 # **<center>LEARN HOW TO BET WITH OUR IN DEPTH GUIDES</center>**  
 
 ___
-<center> ![SWAGCOGBETTING](/assets/images/SWAGCOGLOGO.jpg "Swagcoglioni Logo")  </center>  
+![SWAGCOGBETTING](/assets/images/SWAGCOGLOGO.jpg "Swagcoglioni Logo")  
 ___  
   
-The official decalogue of the bettor:
+### **<center>The official decalogue of the bettor:</center>**
 1. The first rule of the betting server is: you do not talk about the betting server
 2. The second rule of the betting server is: you **DO NOT** talk about the betting server
 3. Never wear glasses of your supported team
@@ -24,7 +24,9 @@ The official decalogue of the bettor:
 
 ___  
 
-<center> ![KEEPGAMBLING](/assets/images/keepgambling.webp "Keep gambling")  </center>  
+![KEEPGAMBLING](/assets/images/keepgambling.webp "Keep gambling")  
+  
+___
 
 
 
