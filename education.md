@@ -40,6 +40,7 @@ ___
 
 
 ### **<center> Understanding Betting Terminology </center>**  
+  
 Sportsbook: A company that accepts bets on sports events  
 Wager: The amount of money you bet on an event  
 Odds: The probability of a particular outcome occurring, expressed as a ratio or a fraction  
@@ -49,6 +50,7 @@ Point spread: The number of points by which the favorite is expected to win the 
 Moneyline: The odds on a particular team or player to win the game or match outright  
 Over/Under: A bet on whether the total score of the game or match will be over or under a certain number  
 ### **<center> Types of Bets </center>**  
+  
 Moneyline: A bet on which team or player will win the game outright, regardless of the point spread.  
 Point Spread: A bet on which team will win the game, taking into account a point spread that is designed to level the playing field. The favorite must win by more than the point spread for a bet on them to be successful, while the underdog must either win or lose by fewer points than the spread.  
 Over/Under: A bet on whether the total score of the game or match will be over or under a certain number.  
@@ -58,13 +60,18 @@ Proposition Bet: A bet on a specific event within a game, such as which player w
 
 ### **<center> Before Betting </center>**  
   
-Manage your bankroll: Set a budget for how much you are willing to spend on betting and stick to it. Never bet more than you can afford to lose.  
+**1- Manage your bankroll:**  
+Set a budget for how much you are willing to spend on betting and stick to it. Never bet more than you can afford to lose.  
   
-Do your research: Before placing a bet, research the teams or players involved, their past performance, and any relevant statistics or trends.  
+**2- Do your research:**  
+Before placing a bet, research the teams or players involved, their past performance, and any relevant statistics or trends.  
   
-Bet with your head, not your heart: It's easy to get caught up in rooting for your favorite team, but don't let that cloud your judgment when placing a bet.  
+**3- Bet with your head, not your heart:**  
+It's easy to get caught up in rooting for your favorite team, but don't let that cloud your judgment when placing a bet.  
   
-Shop for the best odds: Different sportsbooks may offer different odds on the same event, so do your research and find the best value for your bet.  
+**4- Shop for the best odds:**  
+Different sportsbooks may offer different odds on the same event, so do your research and find the best value for your bet.  
   
-Take advantage of promotions: Many sportsbooks offer promotions and bonuses to new and existing customers, so be sure to take advantage of these offers when they are available.  
+**5- Take advantage of promotions:**  
+Many sportsbooks offer promotions and bonuses to new and existing customers, so be sure to take advantage of these offers when they are available.  
 
