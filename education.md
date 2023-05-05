@@ -26,18 +26,7 @@ ___
 <center>8. Party and loud music  </center>  
 <center>9. Always go crazy go stupid  </center>  
 <center>10. Keep gambling  </center>  
-
-
-  
-  
 ___  
-
-<p align="center">
-  <img src="/assets/images/keepgambling.webp" height="500">
-</p>  
-
-___
-
 
 ### **<center> Understanding Betting Terminology </center>**  
   
@@ -74,4 +63,12 @@ Different sportsbooks may offer different odds on the same event, so do your res
   
 **5- Take advantage of promotions:**  
 Many sportsbooks offer promotions and bonuses to new and existing customers, so be sure to take advantage of these offers when they are available.  
+
+___
+
+<p align="center">
+  <img src="/assets/images/keepgambling.webp" height="500">
+</p>  
+
+___
 
