@@ -7,11 +7,11 @@ title: Education
 # **<center>LEARN HOW TO BET WITH OUR IN DEPTH GUIDES</center>**  
 
 ___  
-
+  
 <p align="center">
   <img src="/assets/images/SWAGCOGLOGO.jpg" height="500">
 </p>  
-
+  
 ___  
   
 ### **<center>The official decalogue of the bettor</center>**  
@@ -26,6 +26,7 @@ ___
 <center>8. Party and loud music  </center>  
 <center>9. Always go crazy go stupid  </center>  
 <center>10. Keep gambling  </center>  
+  
 ___  
 
 ### **<center> Understanding Betting Terminology </center>**  
@@ -38,7 +39,10 @@ Underdog: The team or player that is expected to lose the game or match
 Point spread: The number of points by which the favorite is expected to win the game  
 Moneyline: The odds on a particular team or player to win the game or match outright  
 Over/Under: A bet on whether the total score of the game or match will be over or under a certain number  
-___
+
+___  
+  
+  
 ### **<center> Types of Bets </center>**  
   
 Moneyline: A bet on which team or player will win the game outright, regardless of the point spread.  
@@ -47,7 +51,9 @@ Over/Under: A bet on whether the total score of the game or match will be over o
 Parlay: A bet that combines multiple wagers into a single bet. All of the bets in the parlay must be successful for the bet to win.  
 Futures: A bet on the outcome of a future event, such as who will win the championship at the end of the season.  
 Proposition Bet: A bet on a specific event within a game, such as which player will score the first goal.  
-___
+
+___  
+  
 ### **<center> Before Betting </center>**  
   
 **1- Manage your bankroll:**  
@@ -65,11 +71,11 @@ Different sportsbooks may offer different odds on the same event, so do your res
 **5- Take advantage of promotions:**  
 Many sportsbooks offer promotions and bonuses to new and existing customers, so be sure to take advantage of these offers when they are available.  
 
-___
+___  
 
 <p align="center">
   <img src="/assets/images/keepgambling.webp" height="500">
 </p>  
 
-___
+___  
 
