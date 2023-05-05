@@ -14,8 +14,10 @@ ___
 
 ___  
   
-### **<center>The official decalogue of the bettor:</center>**
-1. The first rule of the betting server is: you do not talk about the betting server
+### **<center>The official decalogue of the bettor</center>**
+
+
+<center>1. The first rule of the betting server is: you do not talk about the betting server
 2. The second rule of the betting server is: you **DO NOT** talk about the betting server
 3. Never wear glasses of your supported team
 4. Leak tips is forbidden
@@ -24,7 +26,7 @@ ___
 7. Never back the early kickoff
 8. Party and loud music
 9. Always go crazy go stupid
-10. Keep gambling  
+10. Keep gambling  </center>
 
 ___  
 
